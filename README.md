@@ -87,7 +87,7 @@ You need [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) or [Andr
 project. It doesn't matter which one you use. You'll be working on the JavaScript code in whatever text editor you like (many of us 
 use [VSCode](https://code.visualstudio.com)). The IDE is used only to wrap the JavaScript and package it for Android or iOS devices.
 
-### Tookit prerequisites
+### Toolkit prerequisites
 
 - Nodejs v12.16.1 or later. You can download a prebuilt Nodejs installer from [https://nodejs.org/](https://nodejs.org/en/).
 - [yarn v1.19.1](https://yarnpkg.com). Install Yarn with `npm install --global yarn`, or perhaps `sudo npm install --global yarn`.
